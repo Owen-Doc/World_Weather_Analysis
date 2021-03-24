@@ -1,8 +1,11 @@
 config.py
 config1.py
 config2.py
+config3.py
 api_practice.ipynb
 random_number.ipynb
+Untitled.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
